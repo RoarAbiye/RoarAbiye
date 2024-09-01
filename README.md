@@ -1,5 +1,4 @@
 <h1>
-  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -17,7 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨🏿‍💻🏿 I'm Robel
-- 🌱 I’m currently learning web-development on [freecodecamp](https://www.freecodecamp.org)
-- 👉 checkout my [pofile on freecodecamp](https://www.freecodecamp.org/fcc1fb1fb7b-5bf3-4651-bf1e-1fc2f5834d79)
+- 👉 [pofile on freecodecamp](https://www.freecodecamp.org/fcc1fb1fb7b-5bf3-4651-bf1e-1fc2f5834d79)
 - 📧 rblabiye5@gmail.com
